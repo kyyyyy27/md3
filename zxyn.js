@@ -2899,7 +2899,7 @@ anu = `╭──「 *SEWABOT* 」
 ├  DAN RATUSAN FITUR LAINYA
 ╰────
 ╭─[ *MINAT CHAT* ]
-├  🪀 wa.me/6285822347348?text=SEWABOT
+├  🪀 wa.me/6283830815715?text=SEWABOT
 ╰────
 ╭─[ *PAYMENT* ]
 ├  DANA
