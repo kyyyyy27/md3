@@ -2912,7 +2912,7 @@ let btn = [{
                                 }
                                 }, {
                                 quickReplyButton: {
-                                    displayText: 'Dana',
+                                    displayText: 'Zonk',
                                     id: 'dana'
                                 }
                             }, {
@@ -2935,15 +2935,15 @@ let btn = [{
                         }
             break
 case 'dana': {
-                zxyn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/03c5633ef82ee488a6afc.jpg' }, caption: `Gopay` }, { quoted: m })
+                zxyn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/92e92459d249bc7e9dd71.jpg' }, caption: `Gopay` }, { quoted: m })
             }
             break
 case 'dana': {
-                zxyn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/03c5633ef82ee488a6afc.jpg' }, caption: `DANA` }, { quoted: m })
+                zxyn.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/92e92459d249bc7e9dd71.jpg' }, caption: `DANA` }, { quoted: m })
             }
             break
 case 'pulsa': {
-m.reply('085822347348')
+m.reply('083830815715')
 }
 break
 // Button List
